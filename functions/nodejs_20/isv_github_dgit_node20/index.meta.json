@@ -1,0 +1,16 @@
+{
+  "apiID": "create75206908__function_aadiiah6cskbw",
+  "apiName": "isv_github_dgit_node20",
+  "label": {
+    "zh_CN": "isv_github_dgit_node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
